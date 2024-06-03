@@ -1,5 +1,8 @@
 #pragma once
 
+
+#define 0
+
 template <typename Vector>
 class VectorIterator
 {
